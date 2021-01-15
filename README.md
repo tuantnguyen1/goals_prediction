@@ -5,6 +5,9 @@ Methods:
   * Apply Linear Regression as well as PCA to predict the most likely result for a football match.  
   * Using "k-nearest neighbor" to classify a match as "interesting" or not.  
   * Intensive EDA and visualizations with pandas and matplotlib.
-  * Visualizations of results.
+  * Visualizations of results.  
+
+A report file is included.
+
 
  
