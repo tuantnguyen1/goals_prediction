@@ -5,3 +5,7 @@ Methods:
   -Using "k-nearest neighbor" to classify a match as "interesting" or not.
   -Intensive EDA and visualizations with pandas and matplotlib.
   -Visualizations of results.
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
